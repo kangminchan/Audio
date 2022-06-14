@@ -400,7 +400,9 @@ class ViewController: UIViewController, AVAudioPlayerDelegate, AVAudioRecorderDe
 # 스크린샷
 
 ![image](https://user-images.githubusercontent.com/106370789/173602865-ababb528-ed1b-4c83-b3a3-f5075c89e430.png)
+
 ![image](https://user-images.githubusercontent.com/106370789/173602931-0852a584-a658-4535-87fb-9e3749912065.png)
+
 ![image](https://user-images.githubusercontent.com/106370789/173602994-85c3d9b3-f0db-4d72-aa11-f8c99a592668.png)
 
 ---
